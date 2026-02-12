@@ -12,7 +12,7 @@ A responsive personal portfolio website showcasing my journey as a junior Comput
 ## Setup Instructions (How to run locally)
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/jawaher-hub/202257100-JawaherAwadallah-assignment1.git](https://github.com/jawaher-hub/202257100-JawaherAwadallah-assignment1.git)
+    git clone [https://github.com/jawaher-hub/202257100-JawaherAwadallah-assignment1.git]
     ```
 2.  **Navigate to the Folder:**
     ```bash
