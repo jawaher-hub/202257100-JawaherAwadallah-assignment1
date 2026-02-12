@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: #0574f5; 
+    background: #1258a7; 
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -51,7 +51,7 @@ section {
 }
 
 #about h2, #projects h2, #contact h2 {
-    color: #428ff2;
+    color: #ab82c2;
     font-size: 28px;
     margin-bottom: 20px;
 }
@@ -85,7 +85,7 @@ section {
     margin-bottom: 15px;
 }
 .project h3 {
-    color: #0574f5; 
+    color: #074d9d; 
     font-size: 20px;
     margin-bottom: 10px;
 }
@@ -111,7 +111,7 @@ input, textarea {
 }
 
 button {
-    background: #0574f5;
+    background: #074d9d;
     color: white;
     padding: 12px;
     border: none;
