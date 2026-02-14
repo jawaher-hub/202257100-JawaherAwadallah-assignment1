@@ -18,6 +18,8 @@
 * **Problem:** The initial script only changed the `body` background, leaving white backgrounds on `section` and `input` elements.
 * **AI Intervention:** I provided the AI with my current CSS classes and asked to "fix the colors of dark mode." The AI provided specific CSS selectors for `body.dark section` and `body.dark .project` to ensure a consistent dark theme UI.
 
+### Claude also helped in documentation
+
 ## Learning Outcomes
 
 *  I learned about viewports, smooth scrolling, changing view modes.
