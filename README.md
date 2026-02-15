@@ -25,4 +25,4 @@ A responsive personal portfolio website showcasing my journey as a junior Comput
 This project was developed with the assistance of AI (Gemini/Claude) for:
 * Refining the responsive CSS layout.
 * Implementing the JavaScript theme toggle logic.
-* Troubleshooting DOM pathing, syntax errors and documentation.
+* Troubleshooting syntax errors and documentation.
